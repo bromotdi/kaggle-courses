@@ -1,3 +1,5 @@
+![image](https://github.com/bromotdi/kaggle-courses/assets/80320446/6710e76d-16dd-45f7-aab8-b4934a59ffe6)
+
 **Dataset** - https://www.kaggle.com/datasets/ryanholbrook/car-or-truck
 
 **CV Models** - https://www.kaggle.com/datasets/ryanholbrook/cv-course-models

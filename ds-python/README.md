@@ -1,17 +1,31 @@
 ## Lessons
 
-**1. Play the Game**
+**1. Hello, Python**
 
-- Write first game-playing agent.
+- A quick introduction to Python syntax, variable assignment, and numbers
 
-**2. One-Step Lookahead**
+**2. Functions and Getting Help**
 
-- Make agent smarter with a few simple changes.
+- Calling functions and defining our own, and using Python's builtin documentation
 
-**3. N-Step Lookahead**
+**3. Booleans and Conditionals**
 
-- Use the minimax algorithm to dramatically improve agent.
+- Using booleans for branching logic
 
-**4. Deep Reinforcement Learning**
+**4. Lists**
 
-- Explore advanced techniques for creating intelligent agents.
+- Lists and the things you can do with them. Includes indexing, slicing and mutating
+
+**5. Loops and List Comprehensions**
+
+- For and while loops, and a much-loved Python feature: list comprehensions
+
+**6. Strings and Dictionaries**
+
+- Working with strings and dictionaries, two fundamental Python data types
+
+**7. Working with External Libraries**
+
+- Imports, operator overloading, and survival tips for venturing into the world of external libraries
+
+
